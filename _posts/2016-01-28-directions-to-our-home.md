@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T05:25:31.972Z'
-dateModified: '2016-01-28T05:25:13.810Z'
+datePublished: '2016-01-28T05:28:14.709Z'
+dateModified: '2016-01-28T05:28:10.483Z'
 title: Directions to our home
 author: []
 sourcePath: _posts/2016-01-28-directions-to-our-home.md
